@@ -1,0 +1,9 @@
+.minecraft/logs/*
+.minecraft/saves/*
+.minecraft/screenshots/*
+.minecraft/screenshots/*
+.minecraft/voicechat_recordings/*
+.minecraft/XaeroWaypoints/*
+.minecraft/customnpcs/*
+.minecraft/crash-reports/*
+.minecraft/*.log
