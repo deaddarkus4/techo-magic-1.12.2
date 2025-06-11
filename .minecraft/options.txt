@@ -1,7 +1,7 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.35211268
-fov:-0.0030807494
+fov:-0.0042295456
 gamma:0.0
 saturation:0.0
 renderDistance:12
@@ -45,7 +45,7 @@ reducedDebugInfo:false
 useNativeTransport:true
 entityShadows:true
 mainHand:right
-attackIndicator:1
+attackIndicator:0
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
@@ -188,7 +188,7 @@ key_key.vehicleMenu.desc:50
 key_key.dropBomb.desc:48
 key_key.fireVehicleGuns.desc:47
 key_key.switchControlMode.desc:0
-key_key.reload.desc:19
+key_key.reload.desc:19:SHIFT
 key_key.teamsMenu.desc:34
 key_key.teamsScores.desc:35
 key_key.rollLeft.desc:44

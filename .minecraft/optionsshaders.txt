@@ -1,4 +1,4 @@
-#Sat May 31 21:42:15 MSK 2025
+#Wed Jun 04 18:36:54 MSK 2025
 shaderPack=BSL_v8.2.07.1.zip
 antialiasingLevel=0
 normalMapEnabled=true
