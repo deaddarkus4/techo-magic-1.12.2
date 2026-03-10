@@ -100,5 +100,5 @@ chunk:
 # Distance renderer
 distance:
   enable: true
-  mode: SIMPLE
+  mode: 'OFF'
   color: '0xFF_FF_AA_00'
