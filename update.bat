@@ -10,7 +10,7 @@ echo  ======================================
 echo.
 
 set "GIT=%~dp0PortableGit\bin\git.exe"
-set "REPO=%~dp0.minecraft"
+set "REPO=%~dp0."
 
 if not exist "%GIT%" (
     color 0C
